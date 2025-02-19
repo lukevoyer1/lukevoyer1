@@ -8,8 +8,7 @@ Open-source contributions and community-driven projects
 Backend optimization and performance
 Currently Learning
 Advanced TypeScript for scalable applications
-DevOps and CI/CD workflows (Docker, Kubernetes)
-AI-driven development with TensorFlow.js
+DevOps and CI/CD workflows 
 
 Looking to Collaborate On
 Open-source projects in web and AI development
